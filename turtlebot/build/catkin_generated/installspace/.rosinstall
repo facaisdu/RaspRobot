@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sclab_robot/turtlebot_ws/turtlebot/install/setup.sh

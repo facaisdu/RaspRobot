@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/kobuki/install
+
+Name: yocs_joyop
+Description: Description of yocs_joyop
+Version: 0.8.2
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/kobuki/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/kobuki/install
+
+Name: kobuki_bumper2pc
+Description: Description of kobuki_bumper2pc
+Version: 0.7.6
+Cflags: -I/home/sclab_robot/turtlebot_ws/kobuki/install/include
+Libs: -L/home/sclab_robot/turtlebot_ws/kobuki/install/lib -lkobuki_bumper2pc_nodelet
+Requires: roscpp nodelet pluginlib sensor_msgs kobuki_msgs

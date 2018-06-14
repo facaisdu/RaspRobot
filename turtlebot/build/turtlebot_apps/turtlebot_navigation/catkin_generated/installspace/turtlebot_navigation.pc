@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/turtlebot/install
+
+Name: turtlebot_navigation
+Description: Description of turtlebot_navigation
+Version: 2.3.7
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/turtlebot/install/lib 
+Requires: tf roscpp sensor_msgs

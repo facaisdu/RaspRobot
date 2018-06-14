@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/kobuki/install
+
+Name: kobuki_capabilities
+Description: Description of kobuki_capabilities
+Version: 0.7.6
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/kobuki/install/lib 
+Requires: 

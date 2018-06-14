@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/kobuki/install
+
+Name: yocs_navi_toolkit
+Description: Description of yocs_navi_toolkit
+Version: 0.8.2
+Cflags: -I/home/sclab_robot/turtlebot_ws/kobuki/install/include
+Libs: -L/home/sclab_robot/turtlebot_ws/kobuki/install/lib -lyocs_navi_toolkit
+Requires: base_local_planner costmap_2d nav_msgs ecl_build ecl_linear_algebra roscpp tf

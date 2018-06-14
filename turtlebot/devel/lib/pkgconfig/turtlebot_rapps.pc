@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/turtlebot/devel
+
+Name: turtlebot_rapps
+Description: Description of turtlebot_rapps
+Version: 2.3.7
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/turtlebot/devel/lib 
+Requires: 

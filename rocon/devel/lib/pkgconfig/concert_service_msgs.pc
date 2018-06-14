@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/rocon/devel
+
+Name: concert_service_msgs
+Description: Description of concert_service_msgs
+Version: 0.9.0
+Cflags: -I/home/sclab_robot/turtlebot_ws/rocon/devel/include
+Libs: -L/home/sclab_robot/turtlebot_ws/rocon/devel/lib 
+Requires: message_runtime rocon_service_pair_msgs rocon_std_msgs

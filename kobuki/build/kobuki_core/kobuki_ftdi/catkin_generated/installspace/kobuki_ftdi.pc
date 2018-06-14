@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/kobuki/install
+
+Name: kobuki_ftdi
+Description: Description of kobuki_ftdi
+Version: 0.7.8
+Cflags: -I/home/sclab_robot/turtlebot_ws/kobuki/install/include
+Libs: -L/home/sclab_robot/turtlebot_ws/kobuki/install/lib -lusb -lftdi
+Requires: ecl_command_line

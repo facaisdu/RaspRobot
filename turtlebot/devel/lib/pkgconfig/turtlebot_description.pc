@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/turtlebot/devel
+
+Name: turtlebot_description
+Description: Description of turtlebot_description
+Version: 2.4.2
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/turtlebot/devel/lib 
+Requires: urdf xacro

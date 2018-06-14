@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/turtlebot/install
+
+Name: turtlebot_stdr
+Description: Description of turtlebot_stdr
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/turtlebot/install/lib 
+Requires: 

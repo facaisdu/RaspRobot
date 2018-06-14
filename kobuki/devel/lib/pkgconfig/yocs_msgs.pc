@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/kobuki/devel
+
+Name: yocs_msgs
+Description: Description of yocs_msgs
+Version: 0.6.3
+Cflags: -I/home/sclab_robot/turtlebot_ws/kobuki/devel/include
+Libs: -L/home/sclab_robot/turtlebot_ws/kobuki/devel/lib 
+Requires: actionlib_msgs std_msgs geometry_msgs std_srvs message_runtime

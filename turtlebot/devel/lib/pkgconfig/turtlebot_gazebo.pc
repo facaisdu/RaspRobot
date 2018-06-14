@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/turtlebot/devel
+
+Name: turtlebot_gazebo
+Description: Description of turtlebot_gazebo
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/turtlebot/devel/lib 
+Requires: 

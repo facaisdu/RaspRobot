@@ -1,0 +1,8 @@
+prefix=/home/sclab_robot/turtlebot_ws/kobuki/devel
+
+Name: yocs_ar_pair_approach
+Description: Description of yocs_ar_pair_approach
+Version: 0.8.2
+Cflags: 
+Libs: -L/home/sclab_robot/turtlebot_ws/kobuki/devel/lib 
+Requires: 
